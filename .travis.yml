@@ -53,4 +53,4 @@ addons:
   sonarcloud:
     organisation: stefanfoulis
     token:
-      secure: "td0nR5J3yV04FJswAtYTB2uqWdIvfA8hH7AqRFwb4duF2vb96/ulCiSdGPLJCL5301oiMfI6+GP+AySpIXYqJywFTm3NqfTLQIEZqlSxvPN8bioDC9HKlfD/1XP7qDOKhatygoR0Lz7BkQnfehb5y6FNL/86SVZa0h7g6FidUPA="
+      secure: "XkN5QseD4sAPBZ1qpsNnNN3mVpyS1hJidGu5C5uv+0GEgQ7vj2ipt0h5L64225LOkcqmb4OfYcslOo0SwaOvme8U26c5+e/TymNmy4lr1TQFFXSjM0IJ3iPymi9i4SjL9E1K5zUwJ5+xWnl3KRV7i8IPG0Kqp7PzxBXmSJVI3pM="
