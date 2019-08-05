@@ -51,6 +51,6 @@ after_success:
 
 addons:
   sonarcloud:
-    organisation: "stefanfoulis"
+    organisation: stefanfoulis
     token:
       secure: "td0nR5J3yV04FJswAtYTB2uqWdIvfA8hH7AqRFwb4duF2vb96/ulCiSdGPLJCL5301oiMfI6+GP+AySpIXYqJywFTm3NqfTLQIEZqlSxvPN8bioDC9HKlfD/1XP7qDOKhatygoR0Lz7BkQnfehb5y6FNL/86SVZa0h7g6FidUPA="
